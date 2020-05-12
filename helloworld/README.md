@@ -1,4 +1,4 @@
-helloworld: Helloworld Example
+test helloworld: Helloworld Example
 ===============================
 Author: Pete Muir  
 Level: Beginner  
